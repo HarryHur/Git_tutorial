@@ -1,2 +1,2 @@
 # Git_tutorial
-Note of leetcode problems
+Tutorial of Git, Github
